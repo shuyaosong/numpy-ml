@@ -1,4 +1,5 @@
 https://mp.weixin.qq.com/s/I6txiXCkWq_ymKimyEbqEA
+用 NumPy 手写机器学习模型
 # numpy-ml
 Ever wish you had an inefficient but somewhat legible collection of machine
 learning algorithms implemented exclusively in numpy? No? 
