@@ -1,3 +1,4 @@
+https://mp.weixin.qq.com/s/I6txiXCkWq_ymKimyEbqEA
 # numpy-ml
 Ever wish you had an inefficient but somewhat legible collection of machine
 learning algorithms implemented exclusively in numpy? No? 
